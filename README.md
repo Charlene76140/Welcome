@@ -7,3 +7,6 @@ HTML, JS, SQL, PHP
 
 ### compétences
 bla bla bla bla bla bla 
+
+#### mes passions
+bla bla bla bla bla bla bla 
